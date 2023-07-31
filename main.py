@@ -40,6 +40,3 @@ else:
     print('Escolha umas das 4 opções')
 
 
-
-#Printar Resultado
-print('Esta parte fiz depois')
